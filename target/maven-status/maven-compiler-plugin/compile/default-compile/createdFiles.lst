@@ -1,0 +1,5 @@
+br/edu/ifpb/entidades/Cliente.class
+br/edu/ifpb/servlets/Cadastrar.class
+br/edu/ifpb/servlets/Listar.class
+br/edu/ifpb/fabrica/ConnectionFactory.class
+br/edu/ifpb/dao/DaoCliente.class
